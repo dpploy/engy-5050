@@ -10,11 +10,7 @@
    + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Energy Program)
    + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
 
-The goal of this course is to present an unified treatment of continuum transport phenomena using computational finite element methods. Therefore serving as a foundation for simulation of coupled fluid flow (multiphase), thermo-mechanics, heat transfer, radiation, reactive mass transfer and electromagnetics. The computational framework used is open source and based on [MOOSE: Multiphysics Object-Oriented Simulation Environment](https://mooseframework.inl.gov/). Steady-state, three-dimensional models will be the end-target of this course, therefore necessary topics in parallel computing will be covered. Basic knowledge of transport phenomena is required in addition to computer programming skills of one or more object oriented languages (*e.g.* C++ or/and Python).
-
-This three-credit lecture course over fifteen weeks, consists of Jupyter notebooks used for lectures (see `notebooks/`).
-
-Feedback and collaboration to improve this course are welcome through GitHub `pull requests` and `issues` or direct email. 
+In construction during this semester.
 
 This course uses Jupyter Notebooks in Python programming language. The content can be accessed in
 the following ways:
@@ -27,7 +23,7 @@ start a Jupyter Notebook server on your web browser with all notebooks listed. U
 clicking on individual notebook files, you will access the live course notebooks.
 + Use the green `Code` button above on the right upper side of the page and either download the repository using **GitHub Desktop** or download a **ZIP archive** to your local machine. Unzip the archive. Then use your own Jupyter Notebook server (*see Syllabus or Introduction notebooks on how to install Anaconda*) to navigate to the directory created by the unzip or GitHub Desktop operation and upload the notebook files. In the case of a ZIP download, the files will not be updated on your local machine and you will need to return to the repository for getting new files or updated versions of previously downloaded files as the course progresses. If you use GitHub Desktop, the repository will be in sync.
 
-> *Students will profit from either taking or self-studying a [companion course](https://github.com/dpploy/engy-5050) 
+> *Students will profit from either taking or self-studying a [companion course](https://github.com/dpploy/engy-5310) 
 > that explains many of the computational aspects of using Jupyter notebooks, Python language programming, and methods 
 > in computational engineering.*
 
