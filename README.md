@@ -10,7 +10,7 @@
    + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Energy Program)
    + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
 
-In construction during this semester.
+This site will be in construction during this semester.
 
 This course uses Jupyter Notebooks in Python programming language. The content can be accessed in
 the following ways:
