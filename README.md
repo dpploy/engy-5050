@@ -1,4 +1,4 @@
-# Engy-5050 Reactor Physics
+# Engy-5050 Nuclear Reactor Physics
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/engy-5050/tree/main/notebooks/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-5050/main)
