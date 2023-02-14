@@ -8,6 +8,8 @@ engy_5310
 *.pdf
 *~
 .*~
+*syllab*.md
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
