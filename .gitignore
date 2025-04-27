@@ -1,4 +1,5 @@
 # local
+pyfem1d
 *solution*
 *midterm*
 *.png
@@ -10,7 +11,7 @@ engy_5310
 *~
 .*~
 *syllab*.md
-*.txt
+#*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
